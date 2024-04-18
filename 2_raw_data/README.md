@@ -5,7 +5,7 @@ This section includes the raw LEOKA narratives and the collection of segmented n
 The LEOKA narratives come from the [FBI LEOKA](https://ucr.fbi.gov/leoka/) website that includes publicly available descriptions of incidents involving the killing or assault of law enforcement agents in the United States between 1996 and 2019.
 
 The section includes the following folders and files:
-* data
+* data:
   * "fbi_leoka_corpus_integrated.txt".
     * This is the first version of LEOKA narratives gathered in the project.
   * "fbi_leoka_corpus_integrated_v2.txt"
@@ -14,12 +14,12 @@ The section includes the following folders and files:
     * This is a collection of .csv files including a random selection of LEOKA narratives.
     * These files are the input data for the annotation interface.
     * Each collection includes 130 narratives. To enable the inter-coder reliability assessment across collections, the first 30 stories in each file are the same across all data files. The rest 100 narratives are unique to each data file.
- * scripts
-  * "1_segment_data_v2.R"
-    * This R script randomly allocates the raw LEOKA narratives into different 11 different data files.
-    * Each data file constitutes the set of narratives that 11 teams of research assistants coded in the annotation interface. 
- * "FBI_data.Rproj"
-    * This is the R Project file.
+* scripts:
+   * "1_segment_data_v2.R"
+      * This R script randomly allocates the raw LEOKA narratives into different 11 different data files.
+      * Each data file constitutes the set of narratives that 11 teams of research assistants coded in the annotation interface. 
+* "FBI_data.Rproj"
+   * This is the R Project file.
 
 
 
