@@ -14,8 +14,13 @@ The section includes the following folders and files:
     * This is a collection of .csv files including a random selection of LEOKA narratives.
     * These files are the input data for the annotation interface.
     * Each collection includes 130 narratives. To enable the inter-coder reliability assessment across collections, the first 30 stories in each file are the same across all data files. The rest 100 narratives are unique to each data file.
-  * scripts
-    * "1_segment_data_v2.R" is the R script to randomly allocate the raw LEOKA narratives into different data files.
-  * "FBI_data.Rproj" is the R Project file.
+ * scripts
+  * "1_segment_data_v2.R"
+    * This R script randomly allocates the raw LEOKA narratives into different 11 different data files.
+    * Each data file constitutes the set of narratives that 11 teams of research assistants coded in the annotation interface. 
+ * "FBI_data.Rproj"
+    * This is the R Project file.
+
+
 
 (latest update 4/18/2024)
