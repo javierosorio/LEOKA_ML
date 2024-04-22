@@ -4,5 +4,5 @@ To conduct the annotations, this project relied on [Label Studio](https://labels
 
 To conduct the annotations, the research project counted on the support of 36 undergraduate students grouped into 11 teams. 
 
-This section presents the codebook used to annotate the LEOKA narratives. Please see file "LEOKA_codebook_1.2pdf"
+This section presents the codebook used to annotate the LEOKA narratives. Please see file "LEOKA_codebook_1.3pdf"
 
