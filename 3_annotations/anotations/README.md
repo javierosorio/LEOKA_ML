@@ -1,6 +1,6 @@
 # LEOKA annotations
 
-This folder contains ground truth annotations for the following LEOLA collections:
+This folder contains ground truth annotations for the following LEOLA collections in .json file format:
 * LEOKA team 1
 * LEOKA team 2
 * LEOKA team 3
