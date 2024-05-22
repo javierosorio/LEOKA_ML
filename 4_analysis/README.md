@@ -6,6 +6,8 @@ Finished:
 * None
 
 In development:
-* Hierarchical multi-label multi-class sequential neural network classifier
+* Hierarchical multi-label simple transformers classifier
+* Hierarchical multi-label sequential neural network classifier
+* NER based on LEOKA annotations
 
 
