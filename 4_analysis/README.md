@@ -1,17 +1,15 @@
-# Analysis and Classification
+# Analysis of Annotations
 
-This directory contains the training and evaluation files for classifiers trained on the annotated LEOKA data.
+This directory contains the statistics for training, dev, and test data and label space.
 
-All models use ConfliBERT English with the BERT architecture as features. BERT Base is used to compare the performance of the domain-specific ConfliBERT English vs. BERT Base.
+After processing annotations from Label Studio:
 
-Finished:
-* None
+Discarded 13 invalid labels.
+4 had no ground truth.
 
-In development:
-* Hierarchical multi-label simple transformers classifier
-* Hierarchical multi-label sequential neural network classifier
-* NER based on LEOKA annotations
+583 tasks for training.
+349 for development.
+234 for testing.
 
-Results:
-
-
+Graph of Label Space:
+<img src="labels.png" alt="A graph of labels for the multi-label classification task and the number of instances for each class" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
