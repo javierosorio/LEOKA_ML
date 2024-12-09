@@ -11,5 +11,6 @@ Discarded 13 invalid labels.
 349 for development.
 234 for testing.
 
-Graph of Label Space:
+### Graph of Label Space:
+
 <img src="labels.png" alt="A graph of labels for the multi-label classification task and the number of instances for each class" width="400" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
